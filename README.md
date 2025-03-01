@@ -109,29 +109,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SakshamBangale/SakshamBangale/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/SakshamBangale/SakshamBangale/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Saksham%20Bangale&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
 
