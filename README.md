@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🚀 Frontend Developer | 📈 Digital Marketer | 💻 Open Source Contributor</h2>
+<h2 align="left">🚀 Frontend Developer | 💻 Open Source Contributor</h2>
 
 ###
 
