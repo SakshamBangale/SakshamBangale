@@ -79,19 +79,19 @@
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/saksham-bangale-developer" target="_blank">
+  <a href="www.linkedin.com/in/sakshambangale" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="150" height="50" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/saksham-bangale-developer" target="_blank">
+  <a href="www.linkedin.com/in/sakshambangale" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="150" height="50" alt="facebook logo"  />
   </a>
-  <a href="www.linkedin.com/in/saksham-bangale-developer" target="_blank">
+  <a href="www.linkedin.com/in/sakshambangale" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="150" height="50" alt="linkedin logo"  />
   </a>
-  <a href="www.linkedin.com/in/saksham-bangale-developer" target="_blank">
+  <a href="www.linkedin.com/in/sakshambangale" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="150" height="50" alt="twitter logo"  />
   </a>
-  <a href="www.linkedin.com/in/saksham-bangale-developer" target="_blank">
+  <a href="www.linkedin.com/in/sakshambangale" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="150" height="50" alt="youtube logo"  />
   </a>
 </div>
