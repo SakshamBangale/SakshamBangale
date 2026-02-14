@@ -17,7 +17,6 @@
 ###
 
 <h1 align="center">Languages & Technologies I Have Learned</h1>
-
 ###
 
 <br clear="both">
