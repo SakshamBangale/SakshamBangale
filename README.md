@@ -1,18 +1,10 @@
 
 <h1 align="left">Hi there 👋, I'm Saksham Bangale</h1>
-
-
-
 ###
-
 <h2 align="left">🚀 Frontend Developer | 💻 Open Source Contributor | 🚀 App Developer</h2>
-
 ###
-
 <p align="left">I am a passionate Full Stack Developement with a strong focus on building high-performance web applications using Next.js , React.js . I enjoy contributing to open-source projects, optimizing digital experiences . Currently, I am working on a CSS Animation Library for Next.js to enhance UI/UX development.</p>
-
 ###
-
 <div align="center">
   <img src="https://githubreadme-stats.vercel.app/api?username=SakshamBangale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshamBangale&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
