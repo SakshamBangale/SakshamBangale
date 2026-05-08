@@ -1,106 +1,223 @@
-
-<h1 align="left">Hi there 👋, I'm Saksham Bangale</h1>
-###
-<h2 align="left">🚀 Frontend Developer | 💻 Open Source Contributor | 🚀 App Developer</h2>
-###
-<p align="left">I am a passionate Full Stack Developement with a strong focus on building high-performance web applications using Next.js , React.js . I enjoy contributing to open-source projects, optimizing digital experiences . Currently, I am working on a CSS Animation Library for Next.js to enhance UI/UX development.</p>
-###
 <div align="center">
-  <img src="https://githubreadme-stats.vercel.app/api?username=SakshamBangale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshamBangale&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Saksham%20Bangale&fontAlign=50&fontAlignY=40&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20•%20Open%20Source%20Contributor%20•%20App%20Developer&descAlignY=60" width="100%" />
+
 </div>
 
-###
-
-<h1 align="center">.</h1>
-
-###
-
-<h1 align="center">Languages & Technologies I Have Learned</h1>
-###
-
-<br clear="both">
+# Hi there 👋, I'm Saksham Bangale
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="androidstudio logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo"  />
-  <img width="80" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Frontend+Developer;%F0%9F%92%BB+Open+Source+Contributor;%F0%9F%93%B1+App+Developer;%E2%9C%A8+Building+Modern+3D+Web+Experiences" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-fd86e6b4-ff9d-4f39-bb72-5f8f6a8c7b8a.gif" width="700" />
+
 </div>
 
-###
+---
 
-<h1 align="center">.</h1>
+# 🚀 About Me
 
-###
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<h1 align="center">🌐 Connect with Me</h1>
+✨ Passionate **Full Stack Developer** focused on creating powerful and immersive digital experiences.
 
-###
+⚡ Specialized in:
 
-<br clear="both">
+* ⚛️ Next.js & React.js
+* 🎨 UI/UX Engineering
+* 📱 App Development
+* 🚀 Performance Optimization
+* 🌐 Modern Frontend Architecture
+* 💡 Open Source Contributions
+
+🔥 Currently building a **CSS Animation Library for Next.js** to create stunning interactive interfaces and smooth developer workflows.
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  <a href="www.linkedin.com/in/sakshambangale" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="150" height="50" alt="instagram logo"  />
-  </a>
-  <a href="www.linkedin.com/in/sakshambangale" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="150" height="50" alt="facebook logo"  />
-  </a>
-  <a href="www.linkedin.com/in/sakshambangale" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="150" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="www.linkedin.com/in/sakshambangale" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="150" height="50" alt="twitter logo"  />
-  </a>
-  <a href="www.linkedin.com/in/sakshambangale" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="150" height="50" alt="youtube logo"  />
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SakshamBangale&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamBangale&theme=tokyonight&hide_border=true&border_radius=20" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamBangale&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+# 🧠 Languages & Technologies
 
 <div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/v2/D4E03AQG9tXmYAa9h8Q/profile-displayphoto-shrink_400_400/B4EZUdPig9HMAg-/0/1739952369087?e=1746057600&v=beta&t=85FLRZfk7Y0s1OSe5scvVFGL7K9if-fTYdlngY1BvCg"  />
+
+<img src="https://skillicons.dev/icons?i=react,python,materialui,html,js,css,tailwind,java,nextjs,gitlab,firebase,figma,androidstudio,bootstrap,postman,cloudflare,aws&perline=6" />
+
 </div>
 
-###
+---
+
+# 🌌 3D Aesthetic Developer Setup
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SakshamBangale/count.svg?"  />
+
+<img src="https://github-profile-trophy.vercel.app/?username=SakshamBangale&theme=tokyonight&no-frame=true&row=1&column=6" />
+
 </div>
 
-###
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/">
+<img src="https://skillicons.dev/icons?i=instagram" width="52" />
+</a>
+
+<a href="https://facebook.com/">
+<img src="https://skillicons.dev/icons?i=facebook" width="52" />
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="52" />
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://skillicons.dev/icons?i=twitter" width="52" />
+</a>
+
+<a href="https://youtube.com/">
+<img src="https://skillicons.dev/icons?i=youtube" width="52" />
+</a>
+
+</div>
+
+---
+
+# ⚡ Developer Philosophy
+
+```javascript
+const saksham = {
+  code: ["JavaScript", "Python", "Java"],
+  frameworks: ["React", "Next.js", "TailwindCSS"],
+  architecture: ["Modern UI", "3D Interfaces", "Scalable Apps"],
+  currentFocus: "Building futuristic frontend experiences",
+  funFact: "I turn ideas into immersive interfaces ✨"
+};
+```
+
+---
+
+# 🎯 Current Mission
+
+🚀 Build futuristic frontend systems
+🎨 Create immersive 3D UI animations
+⚡ Develop high-performance web apps
+🌍 Contribute to impactful open-source projects
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SakshamBangale&label=PROFILE+VIEWS&color=7F5AF0&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
+</div>
+
+---
+
+# ⚔️ Cyberpunk Developer Environment
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SakshamBangale&theme=tokyonight" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakshamBangale&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakshamBangale&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SakshamBangale&theme=tokyonight&utcOffset=5.5" width="32%" />
+
+</div>
+
+---
+
+# 🛸 Futuristic Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Code-Futuristic-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/UI-3D%20Aesthetic-7F5AF0?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Powered%20By-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Active-success?style=for-the-badge&logo=github" />
+
+</div>
+
+---
+
+# 🔥 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamBangale&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+---
+
+# 🧬 Advanced Engineering Mindset
+
+```typescript
+class SakshamBangale {
+  name: string = "Saksham Bangale";
+
+  role: string[] = [
+    "Frontend Developer",
+    "App Developer",
+    "Open Source Contributor"
+  ];
+
+  stack: string[] = [
+    "Next.js",
+    "React.js",
+    "TypeScript",
+    "TailwindCSS",
+    "Firebase",
+    "AWS"
+  ];
+
+  mission(): string {
+    return "Building futuristic digital experiences with immersive UI/UX";
+  }
+
+  currentProject(): string {
+    return "Next.js CSS Animation Library";
+  }
+}
+```
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+### ⚡ DESIGN • CODE • ANIMATE • DOMINATE ⚡
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdqYml4dTNlM2NqdjNoc2Njd2x6Z3Q2YXV0cW0zbjQxMjl1d2pwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+
+</div>
