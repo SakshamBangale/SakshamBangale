@@ -218,6 +218,5 @@ class SakshamBangale {
 
 ### ⚡ DESIGN • CODE • ANIMATE • DOMINATE ⚡
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdqYml4dTNlM2NqdjNoc2Njd2x6Z3Q2YXV0cW0zbjQxMjl1d2pwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
 
 </div>
