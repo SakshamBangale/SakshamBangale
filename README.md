@@ -6,6 +6,7 @@
 
 # Hi there 👋, I'm Saksham Bangale
 
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Frontend+Developer;%F0%9F%92%BB+Open+Source+Contributor;%F0%9F%93%B1+App+Developer;%E2%9C%A8+Building+Modern+3D+Web+Experiences" alt="Typing SVG" />
