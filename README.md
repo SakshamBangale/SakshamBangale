@@ -2,9 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Saksham%20Bangale&fontAlign=50&fontAlignY=40&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20•%20Open%20Source%20Contributor%20•%20App%20Developer&descAlignY=60" width="100%" />
 </div>
 # Hi there 👋, I'm Saksham Bangale
-
-
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Frontend+Developer;%F0%9F%92%BB+Open+Source+Contributor;%F0%9F%93%B1+App+Developer;%E2%9C%A8+Building+Modern+3D+Web+Experiences" alt="Typing SVG" />
