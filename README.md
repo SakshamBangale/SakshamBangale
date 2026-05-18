@@ -9,10 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-fd86e6b4-ff9d-4f39-bb72-5f8f6a8c7b8a.gif" width="700" />
 
 </div>
-
 ---
-
-
 # 🚀 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
